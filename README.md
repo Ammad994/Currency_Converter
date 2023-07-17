@@ -1,7 +1,5 @@
 # Currency Converter
 
-![Currency Converter Banner](currency_converter_banner.png)
-
 ## Overview
 
 The Currency Converter is a simple Python application that allows users to convert an amount from one currency to another. The graphical user interface (GUI) provides an intuitive way to select the base and target currencies, enter the amount to be converted, and view the converted result.
